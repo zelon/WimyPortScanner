@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "WimyPortScanner": {
+      "commandName": "Project",
+      "commandLineArgs": "localhost 1 1024"
+    }
+  }
+}
